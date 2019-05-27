@@ -1,36 +1,4 @@
 # Agricultural Knowledge Graph
-
-项目demo：http://ecnukg.vicp.io 
-
-## 项目介绍：
-
-本项目是上海市《农业信息服务平台及农业大数据综合利用研究》子课题《上海农业农村大数据共享服务平台建设和应用》的研究成果。
-
-该课题是由上海市农业委员会信息中心主持，以“致富农民、服务市民、提高行政管理效能”为目标，充分发挥大数据在农业农村发展中的重要功能和巨大潜力，重点建设上海市级农业农村大数据中心，促进信息资源的共建共享和创新应用。
-
-华东师范大学数据科学与工程学院（以下简称华师大数据学院）作为课题主要参与单位以实现智慧农业为目标，探索农业大数据分析、挖掘和综合应用。华师大课题组在前期国家重点研发计划《大数据知识工程基础理论及其应用研究》研究基础上，在本项目中，基于碎片化农业大数据，构建面向智慧农业的知识图谱及其应用系统。
-
-
-
-
->
-> ### 华东师范大学数据科学与工程学院
->
-> #### 情境计算&知识图谱项目组
-> 学院官网：http://dase.ecnu.edu.cn   
->
-> 项目组Github： https://github.com/ECNUdase
->
-> 参与成员：
->
->| Title               | Name | Homepage                                 |
->| ------------------- | ---- | ---------------------------------------- |
->| Associate Professor | 高　明  | [http://faculty.ecnu.edu.cn/s/2844/t/30305/main.jspy](http://faculty.ecnu.edu.cn/s/2844/t/30305/main.jspy)<br>[http://dase.ecnu.edu.cn/mgao](http://dase.ecnu.edu.cn/mgao) |
->| Master              | 陈远哲  | [https://github.com/qq547276542](https://github.com/qq547276542) |
->| Master              | 匡　俊  | [https://github.com/CrisJk](https://github.com/CrisJk) |
-
-
-
 ## 目录结构：
 
 ```
@@ -356,4 +324,4 @@ sudo sh django_server_start.sh
 ### 关系抽取
 
 使用远程监督方法构建数据集，利用tensorflow训练PCNN模型
-详情见： [relationExtraction](https://github.com/qq547276542/Agriculture_KnowledgeGraph/tree/master/relationExtraction)
+详情见： [relationExtraction]
